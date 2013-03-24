@@ -1,6 +1,6 @@
 # Kirakira
 
-TODO: Write a gem description
+Kirakira is XIRCGateway
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO: 
 
 ## Contributing
 
